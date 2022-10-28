@@ -9,9 +9,9 @@ seasons.
 
 In `BlackSeaCMCC2017meanmonthly.ncl` seasonal means are plotted for the Black 
 Sea model as in the figure here. 
-(/meancurrentBlackSea_1HalfYear.pdf)
+(https://github.com/ELSHCH/NCL_BlackSea/blob/master/meancurrentBlackSea_1HalfYear.pdf)
 
 In `BlackSeaData_MultiPanel.ncl` the multi- panel plots are generated for 
 the Black Sea for near-to-surface atmospheric wind from ECMWF ERA5.
 
-(/BlackSeaData_MultiPanel.pdf)
+(https://github.com/ELSHCH/NCL_BlackSea/blob/master/WindBlackSea2017_1.pdf)
